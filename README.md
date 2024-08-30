@@ -7,5 +7,5 @@ Los talleres se resuelven usando el programa [logisim-evolution](https://github.
 
 | Taller | Enunciado | Solución |
 | - | - | - |
-| Lógica Combinatoria | [Enunciado](https://github.com/arielbakal/uba_sd/blob/main/Taller%20L%C3%B3gica%20Combinatoria/enunciado.pdf) | [Solución](https://github.com/arielbakal/uba_sd/blob/main/Taller%20L%C3%B3gica%20Combinatoria/solucion.circ) |
+| Lógica Combinatoria | [Enunciado](https://github.com/arielbakal/uba_sd/blob/main/Taller%20L%C3%B3gica%20Combinatoria/enunciado_solucion.pdf) | [Solución](https://github.com/arielbakal/uba_sd/blob/main/Taller%20L%C3%B3gica%20Combinatoria/solucion.circ) |
 
