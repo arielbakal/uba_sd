@@ -8,7 +8,7 @@ Los talleres se resuelven usando el programa [logisim-evolution](https://github.
 | Taller | Enunciado | Solución |
 | - | - | - |
 | Lógica Digital (Combinatorios) | [Enunciado](https://github.com/arielbakal/uba_sd/blob/main/Taller%20L%C3%B3gica%20Combinatoria/enunciado_solucion.pdf) | [Solución](https://github.com/arielbakal/uba_sd/blob/main/Taller%20L%C3%B3gica%20Combinatoria/solucion.circ) |
-| Lógica Digital (Secuenciales) |  |  |
+| Lógica Digital (Secuenciales) | [Enunciado](https://github.com/arielbakal/uba_sd/blob/main/Taller%20L%C3%B3gica%20Secuencial/enunciado.pdf) | [Solución](https://github.com/arielbakal/uba_sd/blob/main/Taller%20L%C3%B3gica%20Secuencial/solucion.circ)
 | Arquitectura 1 |  |  |
 | Arquitectura 2 |  |  |
 
