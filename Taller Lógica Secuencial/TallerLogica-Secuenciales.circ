@@ -668,12 +668,6 @@
     <comp lib="0" loc="(490,180)" name="Tunnel">
       <a name="label" val="clk"/>
     </comp>
-    <comp lib="0" loc="(850,110)" name="Splitter">
-      <a name="appear" val="center"/>
-      <a name="facing" val="west"/>
-      <a name="fanout" val="4"/>
-      <a name="incoming" val="4"/>
-    </comp>
     <comp lib="0" loc="(920,450)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="label" val="OP"/>
