@@ -10,6 +10,6 @@ Talleres 3 y 4: Utilizamos el lenguaje ensamblador RISC-V y el programa [Ripes](
 | - | - | - | - |
 | Lógica Digital (Combinatorios) | [Enunciado](https://github.com/arielbakal/uba_sd/blob/main/Taller%20L%C3%B3gica%20Combinatoria/enunciado_solucion.pdf) | [Solución](https://github.com/arielbakal/uba_sd/blob/main/Taller%20L%C3%B3gica%20Combinatoria/solucion.circ) | [Planilla](https://github.com/arielbakal/uba_sd/blob/main/Taller%20L%C3%B3gica%20Combinatoria/enunciado_solucion.pdf) |
 | Lógica Digital (Secuenciales) | [Enunciado](https://github.com/arielbakal/uba_sd/blob/main/Taller%20L%C3%B3gica%20Secuencial/enunciado.pdf) | [Solución](https://github.com/arielbakal/uba_sd/blob/main/Taller%20L%C3%B3gica%20Secuencial/solucion.circ) | [Planilla](https://github.com/arielbakal/uba_sd/blob/main/Taller%20L%C3%B3gica%20Secuencial/planilla.pdf) |
-| Arquitectura 1 | [Enunciado](https://github.com/arielbakal/uba_sd/blob/main/Taller%20Arquitectura%201/enunciado.pdf) |  |
+| Arquitectura 1 | [Enunciado](https://github.com/arielbakal/uba_sd/blob/main/Taller%20Arquitectura%201/enunciado.pdf) | [Solución](https://github.com/arielbakal/uba_sd/blob/main/Taller%20Arquitectura%201/planilla_respuestas.pdf) | [Planilla](https://github.com/arielbakal/uba_sd/blob/main/Taller%20Arquitectura%201/planilla_respuestas.pdf) |
 | Arquitectura 2 |  |  |
 
