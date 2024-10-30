@@ -2,7 +2,7 @@
 
 Talleres 1 y 2: Utilizamos el programa [logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
 
-Talleres 3 y 4: Utilizamos el lenguaje ensamblador RISC-V y el programa [Ripes](https://github.com/mortbopet/Ripes)
+Talleres 3 y 4: Utilizamos el programa [Ripes](https://github.com/mortbopet/Ripes) con la arquitectura RISC-V y lenguaje ensamblador
 
 ## Talleres
 
