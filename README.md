@@ -6,10 +6,10 @@ Talleres 3 y 4: Utilizamos el lenguaje ensamblador RISC-V y el programa [Ripes](
 
 ## Talleres
 
-| Taller | Enunciado | Solución | Planilla |
+| N° | Taller | Enunciado |  |
 | - | - | - | - |
-| Lógica Digital: Combinatorios | [Enunciado](https://github.com/arielbakal/uba_sd/blob/main/Taller%20L%C3%B3gica%20Combinatoria/enunciado_solucion.pdf) | [Solución](https://github.com/arielbakal/uba_sd/blob/main/Taller%20L%C3%B3gica%20Combinatoria/solucion.circ) | [Planilla](https://github.com/arielbakal/uba_sd/blob/main/Taller%20L%C3%B3gica%20Combinatoria/enunciado_solucion.pdf) |
-| Lógica Digital: Secuenciales | [Enunciado](https://github.com/arielbakal/uba_sd/blob/main/Taller%20L%C3%B3gica%20Secuencial/enunciado.pdf) | [Solución](https://github.com/arielbakal/uba_sd/blob/main/Taller%20L%C3%B3gica%20Secuencial/solucion.circ) | [Planilla](https://github.com/arielbakal/uba_sd/blob/main/Taller%20L%C3%B3gica%20Secuencial/planilla.pdf) |
-| Arquitectura: Ciclo de Instrucción | [Enunciado](https://github.com/arielbakal/uba_sd/blob/main/Taller%20Arquitectura%20-%20Ciclo%20de%20Instrucci%C3%B3n/enunciado.pdf) | [Solución](https://github.com/arielbakal/uba_sd/blob/main/Taller%20Arquitectura%20-%20Ciclo%20de%20Instrucci%C3%B3n/planilla_respuestas.pdf) | [Planilla](https://github.com/arielbakal/uba_sd/blob/main/Taller%20Arquitectura%20-%20Ciclo%20de%20Instrucci%C3%B3n/planilla_respuestas.pdf) |
-| Arquitectura: Programación | [Enunciado](https://github.com/arielbakal/uba_sd/blob/main/Taller%20Arquitectura%20-%20Programaci%C3%B3n/enunciado.pdf) |  |  |
+| 1 | Lógica Digital: Combinatorios | [Enunciado](https://github.com/arielbakal/uba_sd/blob/main/Taller%20L%C3%B3gica%20Combinatoria/enunciado_solucion.pdf) | [Solución](https://github.com/arielbakal/uba_sd/blob/main/Taller%20L%C3%B3gica%20Combinatoria/solucion.circ), [Planilla](https://github.com/arielbakal/uba_sd/blob/main/Taller%20L%C3%B3gica%20Combinatoria/enunciado_solucion.pdf) |
+| 2 | Lógica Digital: Secuenciales | [Enunciado](https://github.com/arielbakal/uba_sd/blob/main/Taller%20L%C3%B3gica%20Secuencial/enunciado.pdf) | [Solución](https://github.com/arielbakal/uba_sd/blob/main/Taller%20L%C3%B3gica%20Secuencial/solucion.circ), [Planilla](https://github.com/arielbakal/uba_sd/blob/main/Taller%20L%C3%B3gica%20Secuencial/planilla.pdf) |
+| 3 | Arquitectura: Ciclo de Instrucción | [Enunciado](https://github.com/arielbakal/uba_sd/blob/main/Taller%20Arquitectura%20-%20Ciclo%20de%20Instrucci%C3%B3n/enunciado.pdf) | [Planilla y Respuestas](https://github.com/arielbakal/uba_sd/blob/main/Taller%20Arquitectura%20-%20Ciclo%20de%20Instrucci%C3%B3n/planilla_respuestas.pdf) |
+| 4 | Arquitectura: Programación | [Enunciado](https://github.com/arielbakal/uba_sd/blob/main/Taller%20Arquitectura%20-%20Programaci%C3%B3n/enunciado.pdf) | [Respuestas](https://github.com/arielbakal/uba_sd/blob/main/Taller%20Arquitectura%20-%20Programaci%C3%B3n/respuestas.pdf) |
 
