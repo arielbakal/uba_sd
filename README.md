@@ -1,4 +1,4 @@
-# Sistemas Digitales (ex Orga 1) 2C2024
+# Sistemas Digitales 2C2024 (ex Orga 1)
 
 Talleres 1 y 2: Utilizamos el programa [logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
 
